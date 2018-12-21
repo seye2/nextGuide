@@ -1,0 +1,10 @@
+node_modules
+build
+yarn.lock
+package-lock*
+.next
+.next/**
+bundles
+.idea
+package-lock.json
+

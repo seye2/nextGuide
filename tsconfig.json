@@ -1,0 +1,28 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es5",
+    "sourceMap": true,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "lib": [
+      "es2017",
+      "es2016",
+      "dom",
+      "es2017.object",
+      "dom.iterable"
+    ],
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules",
+    "out",
+    ".next"
+  ]
+}
+
